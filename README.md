@@ -23,3 +23,6 @@
 
 
 
+### 3. 일상
+1. [스파르타봉사클럽 1기 - 구룡마을에 가다!](https://velog.io/@nwejin/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EB%B4%89%EC%82%AC%ED%81%B4%EB%9F%BD-1%EA%B8%B0-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0)
+
