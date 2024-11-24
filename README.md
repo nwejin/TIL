@@ -12,6 +12,8 @@
 6. [스프레드 문법](https://velog.io/@nwejin/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-6)
 7. [REST API](https://velog.io/@nwejin/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-7-REST-API)
 8. [Set과Map](https://velog.io/@nwejin/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-8-Set%EA%B3%BCMap)
+9. [Math](https://velog.io/@nwejin/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-9-Math)
+10. [Date](https://velog.io/@nwejin/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-10-Date)
 ---
 ### 2. 면접 준비
 1. [면접 답변 정리 01](https://velog.io/@nwejin/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-01)
