@@ -21,7 +21,6 @@
 3. [면접 답변 정리 03](https://velog.io/@nwejin/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-03)
 4. [면접 답변 정리 04](https://velog.io/@nwejin/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-04)
 5. [면접 답변 정리 05](https://velog.io/@nwejin/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-05)
-
 ---
 ### 3. 기타
 1. [스파르타봉사클럽 1기 - 구룡마을에 가다!](https://velog.io/@nwejin/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EB%B4%89%EC%82%AC%ED%81%B4%EB%9F%BD-1%EA%B8%B0-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0)
