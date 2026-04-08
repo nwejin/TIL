@@ -1,8 +1,6 @@
 # TIL
 
 #### ✅ 공부한 내용을 정리해보자
-
-
 ### 1. JavaScript
 1. [변수](https://velog.io/@nwejin/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-1-%EB%B3%80%EC%88%98)
 2. [변수 선언 키워드 var, let, const](https://velog.io/@nwejin/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-2-%EB%B3%80%EC%88%98-%EC%84%A0%EC%96%B8-%ED%82%A4%EC%9B%8C%EB%93%9C-var-let-const)
@@ -28,5 +26,4 @@
 3. [React로 간편하게 룰렛 구현하기: react-custom-roulette 활용기](https://velog.io/@nwejin/React-Custom-Roulette-%ED%99%9C%EC%9A%A9-%EB%A3%B0%EB%A0%9B-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 4. [프론트엔드 개발자 면접 및 인턴 취업 후기 (=== 직무 전환 후기)](https://velog.io/@nwejin/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EB%B0%8F-%EC%9D%B8%ED%84%B4-%EC%B7%A8%EC%97%85-%ED%9B%84%EA%B8%B0)
 5. [Phaser3로 미니 게임을 만들어보자](https://velog.io/@nwejin/Phaser3%EB%A1%9C-%EB%AF%B8%EB%8B%88%EA%B2%8C%EC%9E%84%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
-6. []()
 
